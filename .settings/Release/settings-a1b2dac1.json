@@ -64,5 +64,13 @@
   "UiPath.UIAutomationNext.Activities.SearchStepsAA.FullSelector": "True",
   "UiPath.UIAutomationNext.Activities.SearchStepsAA.IgnoreSelectorsWithIdx": "True",
   "UiPath.UIAutomationNext.Activities.SearchStepsWnd.FullSelector": "True",
-  "UiPath.UIAutomationNext.Activities.SearchStepsWnd.IgnoreSelectorsWithIdx": "True"
+  "UiPath.UIAutomationNext.Activities.SearchStepsWnd.IgnoreSelectorsWithIdx": "True",
+  "UiPath.UIAutomationNext.Activities.Generic.WaitForReady": "Interactive",
+  "UiPath.UIAutomationNext.Activities.SearchStepsWeb.InteractionMode": "Simulate",
+  "UiPath.UIAutomationNext.Activities.VerifyExecution.Timeout": "10",
+  "UiPath.UIAutomationNext.Activities.VerifyExecution.Retry": "True",
+  "UiPath.UIAutomationNext.Activities.VerifyExecution.VerifyTypedText": "False",
+  "UiPath.UIAutomationNext.Activities.ApplicationCard.ResizeWindow": "None",
+  "UiPath.UIAutomationNext.Activities.ApplicationCard.UserDataFolderMode": "Automatic",
+  "UiPath.UIAutomationNext.Activities.ApplicationCard.UserDataFolderPath": ""
 }
